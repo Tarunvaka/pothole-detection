@@ -18,10 +18,6 @@ This project uses advanced transfer learning techniques to detect potholes in ro
 ## Prerequisites
 
 - Python 3.8+
-- TensorFlow 2.x or PyTorch
+- TensorFlow 2.x 
 - NumPy, OpenCV, Matplotlib, Pandas
 - Scikit-learn
-
-Install dependencies using:
-```bash
-pip install -r requirements.txt
